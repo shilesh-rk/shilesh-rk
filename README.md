@@ -2,7 +2,7 @@
 
 -⚡[My StackBlitz](https://stackblitz.com/@shilesh-rk)
 
--😎.[Portfolio](https://rkprofile01.netlify.app/)
+-😎[Portfolio](https://rkprofile01.netlify.app/)
 
 -🚩(ReactJs)......🏃..
 
